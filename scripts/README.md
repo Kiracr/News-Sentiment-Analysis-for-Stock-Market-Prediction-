@@ -28,7 +28,7 @@ Create a new branch for Task 2 development, and merge relevant branches from Tas
 ## Task 3: Correlation between News and Stock Movement
 Ensure news and stock price data are aligned by dates.
 Perform sentiment analysis on the news headlines using tools like TextBlob.
-Calculate daily stock returns based on the stock price data and analyze the correlation between sentiment scores and stock movements.
+Calculate daily stock returns based on the stock price data and analyze the correlation between sentiment scores and stock movements .
 ## Key Responsibilities:
 
 Normalize the data by aligning dates between the news and stock datasets.
